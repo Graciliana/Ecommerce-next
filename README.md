@@ -34,7 +34,6 @@ Este é o repositório oficial do e-commerce desenvolvido no tutorial.  Nosso ob
 
 ## Protótipo no Figma 🎨
 
-
 ## Contribuições e Colaborações 🤝
 
 Este projeto está totalmente aberto a contribuições. Se você deseja colaborar, fique à vontade para criar pull requests, corrigir bugs, adicionar novos recursos ou aprimorar a documentação. Sua contribuição é valiosa e ajuda a melhorar ainda mais este projeto!
