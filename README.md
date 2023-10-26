@@ -32,17 +32,9 @@ Este é o repositório oficial do e-commerce desenvolvido no tutorial.  Nosso ob
 
 - **Pagamento do Pedido com a API do Stripe**: Oferecemos uma experiência segura de pagamento online com a integração da API do Stripe, incluindo o uso de webhooks para processar eventos relacionados ao pagamento. Os usuários podem concluir seus pedidos com facilidade e segurança.
 
-## Protótipo no Figma 🎨
+## Getting Started
 
-## Contribuições e Colaborações 🤝
-
-Este projeto está totalmente aberto a contribuições. Se você deseja colaborar, fique à vontade para criar pull requests, corrigir bugs, adicionar novos recursos ou aprimorar a documentação. Sua contribuição é valiosa e ajuda a melhorar ainda mais este projeto!
-
-### Como Contribuir
-
-1. Faça um fork deste repositório.
-
-2. Crie uma branch para sua contribuição:
+First, run the development server:
 
     ```bash
     git checkout -b minha-contribuicao
